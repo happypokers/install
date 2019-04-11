@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>http://cache.400fan.com/down/happy1.1.9.ipa</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>jiuyi.game.com</string>
+          <key>bundle-version</key>
+          <string>1.1.9</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>九一娱乐</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
